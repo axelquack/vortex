@@ -1,9 +1,5 @@
 # Nikola Tesla and 369 in mathematics
 
-![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Nikola_Tesla%2C_with_his_equipment_EDIT.jpg)
-
-Source: Wikimedia, [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
-
 [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) was a Serbian-American inventor, electrical engineer, and physicist who made significant contributions to the development of the alternating current ([AC](https://en.wikipedia.org/wiki/Alternating_current)) electrical system. He is also known for his pioneering work in the fields of wireless communication, radio, and X-rays.
 
 ## 369 obsession
@@ -52,8 +48,6 @@ Picture a clock that begins with nine at the top instead of 12. The principles g
 | 16 + 17 + 18 | equals | 51 | 9 | 5 + 1 = 6 |
 
 Now on this clock of nine, you can trace the doubling of one, two, four, and eight. However, eight doubled is 16, the sum of which is seven. Seven doubled is 14, the sum of which is five. Five doubled is 10, the sum of which is one, and the cycle then repeats itself forever. The design traced out by doubling and calculating digital roots produces an infinity-like symbol. The 369 triangle meaning is a higher plane of existence than the one we currently occupy.
-
-![](https://cdn.shopify.com/s/files/1/0575/6482/3594/files/nikola-tesla-3-6-9-vortex-mathematics_480x480.jpg?v=1669065686)
 
 ## Further articles
 
