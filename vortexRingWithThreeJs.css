@@ -1,0 +1,10 @@
+/* Remove default margin from the body */
+body {
+    margin: 0;
+  }
+  
+  /* Set the canvas to display as a block element, which removes any extra space below it */
+  canvas {
+    display: block;
+  }
+  
