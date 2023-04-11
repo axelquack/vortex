@@ -34,21 +34,6 @@ As a result of his unwavering commitment to the 369, Tesla created a [multitude 
 
 ### Can you explain the 369 theory developed by Nikola Tesla?
 
-<div class=iframe-container>
-<iframe 
-	src="https://www.youtube.com/embed/f4TiYjj0YSo" 
-	title="Vortex Mathe nach Nikola Tesla Bedeutung von 3,6, 9 in der angewandten Philosophie" 
-	modestbranding="1"
-	rel="0"
-	showinfo="0"
-	frameborder="0" 
-	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-	allowfullscreen>
-</iframe>
-</div>
-
-Source (YouTube): [Vortex Mathe nach Nikola Tesla Bedeutung von 3,6 & 9 in der angewandten Philosophie](https://youtu.be/f4TiYjj0YSo)
-
 According to Nikola Tesla's 369 theory, the figures three, six, and nine symbolize dimensions beyond our three-dimensional world. Additionally, the hypothesis suggests that each of these numbers, **particularly nine, governs the principles of our cosmos**. These revered digits serve as the basis for achieving enlightenment and act as "a key to the universe," in Tesla's own words.
 
 ## The significance of 3, 6, and 9 in unlocking the secrets of the universe
@@ -74,3 +59,4 @@ Now on this clock of nine, you can trace the doubling of one, two, four, and eig
 
 * [Vortex ring](https://en.wikipedia.org/wiki/Vortex_ring) (Wikipedia)
 * Article: [Vortex Mathematics: Source code of the Universe](https://aayushivaish.medium.com/vortex-mathematics-source-code-of-the-universe-23749cc4ad6)
+* YouTube: [Vortex Mathe nach Nikola Tesla Bedeutung von 3,6 & 9 in der angewandten Philosophie](https://youtu.be/f4TiYjj0YSo)
