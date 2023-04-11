@@ -54,3 +54,10 @@ Now on this clock of nine, you can trace the doubling of one, two, four, and eig
 * [Vortex ring](https://en.wikipedia.org/wiki/Vortex_ring) (Wikipedia)
 * Article: [Vortex Mathematics: Source code of the Universe](https://aayushivaish.medium.com/vortex-mathematics-source-code-of-the-universe-23749cc4ad6)
 * YouTube: [Vortex Mathe nach Nikola Tesla Bedeutung von 3,6 & 9 in der angewandten Philosophie](https://youtu.be/f4TiYjj0YSo)
+
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="Vortex Ring" src="https://codepen.io/axelquack/embed/KKGdgeq?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/axelquack/pen/KKGdgeq">
+  Vortex Ring</a> by Axel Quack (<a href="https://codepen.io/axelquack">@axelquack</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
